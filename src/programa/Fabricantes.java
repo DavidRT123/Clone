@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 import static programa.Articulos.r;
 /**
  *
- * @author David
+ * @author albert
  */
 public class Fabricantes extends javax.swing.JFrame {
 
