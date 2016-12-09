@@ -97,11 +97,6 @@ public class Clientes extends javax.swing.JFrame {
         jLabel2.setText("Población");
 
         nif.setEditable(false);
-        nif.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                nifActionPerformed(evt);
-            }
-        });
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel3.setText("Nombre");
@@ -511,10 +506,6 @@ public class Clientes extends javax.swing.JFrame {
             Logger.getLogger(Articulos.class.getName()).log(Level.SEVERE, null, ex);
         }
     }//GEN-LAST:event_borrarActionPerformed
-
-    private void nifActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_nifActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_nifActionPerformed
 
     /**
      * @param args the command line arguments
