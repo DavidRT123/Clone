@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author albert
+ * @author sin pena no hay gloria
  */
 public class Articulos extends javax.swing.JFrame {
 
